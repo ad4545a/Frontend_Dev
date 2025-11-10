@@ -1,4 +1,4 @@
-🧠 Aditya's Web Dev Journal
+Aditya's Web Dev Journal
 Hello! I'm Aditya, and this is my personal log as I dive into web development. I'm documenting my journey day by day, tracking the concepts, tasks, and reflections from my studies—starting with HTML and CSS and heading wherever the code takes me! 🚀
 
 📅 Day 1: The Foundation - HTML & Web Concepts
@@ -113,3 +113,68 @@ Combined the transition and transform properties to make an element move smoothl
 🧭 What’s Next:
 
 Diving deep into Responsive Web Design principles, CSS Filters, and mastering Media Queries to build fully adaptive websites.
+
+📅 Day 6: Getting Started with Bootstrap
+Date: 03/11/2025
+
+🧩 What I Learned:
+
+Intro to Bootstrap: Learned how to use this framework for efficient, modern layouts.
+
+Bootstrap Basics: Explored prebuilt components and responsive utility classes.
+
+Bootstrap Grids: Understood its powerful responsive 12-column grid system.
+
+Bootstrap CSS: Practiced using built-in classes to style content quickly.
+
+🎯 Task for the Day:
+
+Design a responsive portfolio webpage using Bootstrap to apply the concepts learned.
+
+🧭 What’s Next:
+
+We will revise CSS and explore more advanced Bootstrap components like the Carousel, Progress Bar, and more.
+
+📅 Day 7: Advanced Bootstrap & CSS Review
+Date: 04/11/2025
+
+🧩 What I Learned:
+
+CSS Review: Refreshed key concepts of Flexbox, Grid, and responsive design.
+
+Bootstrap Carousel: Learned to implement a responsive image slider.
+
+Bootstrap Components: Explored interactive components like Modals (pop-up windows) and Progress Bars.
+
+Utility Classes: Got more practice with Bootstrap's utility classes for spacing, borders, and colors.
+
+🎯 Task for the Day:
+
+Enhance the portfolio page from yesterday by adding a Bootstrap Carousel for projects and a "Contact Me" Modal.
+
+🧭 What’s Next:
+
+Moving beyond static pages! It's time to start learning JavaScript to add logic and interactivity to our websites.
+
+📅 Day 8: Introduction to JavaScript
+Date: 05/11/2025
+
+🧩 What I Learned:
+
+What is JavaScript?: Understood its role as the "behavior" layer of the web.
+
+JS Basics: Learned how to link a .js file to an HTML document.
+
+Core Concepts: Introduced to variables (var, let, const), basic data types (string, number, boolean), and using console.log() for debugging.
+
+First Script: Wrote a simple script to see output in the browser console.
+
+🧪 Task for the Day:
+
+Create an HTML page with a button.
+
+Write a separate JavaScript file that logs a message to the console when the page loads and a different message when the button is clicked.
+
+🧭 What’s Next:
+
+A deeper dive into JavaScript fundamentals, including operators, conditional logic (if/else), and functions.
